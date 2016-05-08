@@ -1,0 +1,7 @@
+.questions {
+	position:absolute;
+	top: 150px;
+	left: 20px;
+	height: 350px;
+	overflow: auto;
+}
